@@ -35,7 +35,7 @@
 ## Table of contents
 1. Introduction
 2. Problem Statement
-4. Mpdules
+4. Modules
 5. Implementation
 6. Screen Shot 
 7. Conclusion
@@ -44,9 +44,9 @@
    ---------------------
    # 1. Introduction
 
-Gap between client as well as Techincal Person or non-techical person around your nearest location .
-Speed Tasker multi level online Platform 
-Speed Tasker Provide for home/office/business
+-Gap between client as well as Techincal Person or non-techical person around your nearest location .
+-Speed Tasker multi level online Platform 
+-Speed Tasker Provide for home/office/business
 
 
 ![ezgif com-webp-to-gif-converter](https://github.com/Nazir-Rizwan/Speed-Tasker/assets/91749601/bedf72c6-895e-420a-9184-0fd09c56a55f)
