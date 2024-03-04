@@ -16,10 +16,10 @@
 
     | Name      | Registration |    Role         | 
     | --------- | ------------ |---------------- |
-    |  Bilal    | Sp20-BCS-021 | Product Designer| 
-    |  Usama    | sp20-BCS-033 | Researcher      |
-    |  Nazir    | sp20-bcs-036 | Team Lead       |
-    |           |              |                 | 
+    |  Nazir    | Sp20-BCS-036 |   Team Lead     | 
+    |  Usama    | sp20-BCS-033 |  Researcher     |
+    |  Nazir    | sp20-bcs-036 | Product Designer|
+    
 
 
 # Overview of FYP 
